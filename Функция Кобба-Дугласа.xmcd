@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?validation-md5-digest 5226202cb9d155cb608d9c028acfee30?>
+<worksheet version="3.0.3" xmlns="http://schemas.mathsoft.com/worksheet30" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ws="http://schemas.mathsoft.com/worksheet30" xmlns:ml="http://schemas.mathsoft.com/math30" xmlns:u="http://schemas.mathsoft.com/units10" xmlns:p="http://schemas.mathsoft.com/provenance10">
+	<pointReleaseData/>
+	<metadata>
+		<generator>Mathcad Professional 14.0</generator>
+		<userData>
+			<title/>
+			<description/>
+			<author>Лоэн</author>
+			<company>Parametric Technology Corporation</company>
+			<keywords/>
+			<revisedBy>Лоэн</revisedBy>
+		</userData>
+		<identityInfo>
+			<revision>1</revision>
+			<documentID>D3A60E62-A1E5-49D1-AEE3-B2502C610547</documentID>
+			<versionID>C7F9FAAD-FE68-4DF6-99BC-9B51A4C52100</versionID>
+			<parentVersionID>00000000-0000-0000-0000-000000000000</parentVersionID>
+			<branchID>00000000-0000-0000-0000-000000000000</branchID>
+		</identityInfo>
+	</metadata>
+	<settings>
+		<presentation>
+			<textRendering>
+				<textStyles>
+					<textStyle name="Normal">
+						<blockAttr margin-left="0" margin-right="0" text-indent="inherit" text-align="left" list-style-type="inherit" tabs="inherit"/>
+						<inlineAttr font-family="Arial" font-charset="0" font-size="10" font-weight="normal" font-style="normal" underline="false" line-through="false" vertical-align="baseline"/>
+					</textStyle>
+					<textStyle name="Heading 1">
+						<blockAttr margin-left="0" margin-right="0" text-indent="inherit" text-align="left" list-style-type="inherit" tabs="inherit"/>
+						<inlineAttr font-family="Arial" font-charset="0" font-size="14" font-weight="bold" font-style="normal" underline="false" line-through="false" vertical-align="baseline"/>
+					</textStyle>
+					<textStyle name="Heading 2">
+						<blockAttr margin-left="0" margin-right="0" text-indent="inherit" text-align="left" list-style-type="inherit" tabs="inherit"/>
+						<inlineAttr font-family="Arial" font-charset="0" font-size="12" font-weight="bold" font-style="italic" underline="false" line-through="false" vertical-align="baseline"/>
+					</textStyle>
+					<textStyle name="Heading 3">
+						<blockAttr margin-left="0" margin-right="0" text-indent="inherit" text-align="left" list-style-type="inherit" tabs="inherit"/>
+						<inlineAttr font-family="Arial" font-charset="0" font-size="12" font-weight="normal" font-style="normal" underline="false" line-through="false" vertical-align="baseline"/>
+					</textStyle>
+					<textStyle name="Paragraph">
+						<blockAttr margin-left="0" margin-right="0" text-indent="21" text-align="left" list-style-type="inherit" tabs="inherit"/>
+						<inlineAttr font-family="Arial" font-charset="0" font-size="10" font-weight="normal" font-style="normal" underline="false" line-through="false" vertical-align="baseline"/>
+					</textStyle>
+					<textStyle name="List">
+						<blockAttr margin-left="14.25" margin-right="0" text-indent="-14.25" text-align="left" list-style-type="inherit" tabs="inherit"/>
+						<inlineAttr font-family="Arial" font-charset="0" font-size="10" font-weight="normal" font-style="normal" underline="false" line-through="false" vertical-align="baseline"/>
+					</textStyle>
+					<textStyle name="Indent">
+						<blockAttr margin-left="108" margin-right="0" text-indent="inherit" text-align="left" list-style-type="inherit" tabs="inherit"/>
+						<inlineAttr font-family="Arial" font-charset="0" font-size="10" font-weight="normal" font-style="normal" underline="false" line-through="false" vertical-align="baseline"/>
+					</textStyle>
+					<textStyle name="Title">
+						<blockAttr margin-left="0" margin-right="0" text-indent="inherit" text-align="center" list-style-type="inherit" tabs="inherit"/>
+						<inlineAttr font-family="Times New Roman" font-charset="0" font-size="24" font-weight="bold" font-style="normal" underline="false" line-through="false" vertical-align="baseline"/>
+					</textStyle>
+					<textStyle name="Subtitle" base-style="Title">
+						<blockAttr margin-left="0" margin-right="0" text-indent="inherit" text-align="center" list-style-type="inherit" tabs="inherit"/>
+						<inlineAttr font-family="Times New Roman" font-charset="0" font-size="18" font-weight="normal" font-style="normal" underline="false" line-through="false" vertical-align="baseline"/>
+					</textStyle>
+				</textStyles>
+			</textRendering>
+			<mathRendering equation-color="#000">
+				<operators multiplication="narrow-dot" derivative="derivative" literal-subscript="large" definition="colon-equal" global-definition="triple-equal" local-definition="left-arrow" equality="bold-equal" symbolic-evaluation="right-arrow"/>
+				<mathStyles>
+					<mathStyle name="Variables" font-family="Times New Roman" font-charset="0" font-size="10" font-weight="normal" font-style="normal" underline="false"/>
+					<mathStyle name="Constants" font-family="Times New Roman" font-charset="0" font-size="10" font-weight="normal" font-style="normal" underline="false"/>
+					<mathStyle name="User 1" font-family="Arial" font-charset="0" font-size="10" font-weight="normal" font-style="normal" underline="false"/>
+					<mathStyle name="User 2" font-family="Courier New" font-charset="0" font-size="10" font-weight="normal" font-style="normal" underline="false"/>
+					<mathStyle name="User 3" font-family="Arial" font-charset="0" font-size="10" font-weight="bold" font-style="normal" underline="false"/>
+					<mathStyle name="User 4" font-family="Times New Roman" font-charset="0" font-size="10" font-weight="normal" font-style="italic" underline="false"/>
+					<mathStyle name="User 5" font-family="Times New Roman" font-charset="0" font-size="10" font-weight="normal" font-style="normal" underline="false"/>
+					<mathStyle name="User 6" font-family="Arial" font-charset="0" font-size="10" font-weight="normal" font-style="normal" underline="false"/>
+					<mathStyle name="User 7" font-family="Times New Roman" font-charset="0" font-size="10" font-weight="normal" font-style="normal" underline="false"/>
+					<mathStyle name="Math Text Font" font-family="Times New Roman" font-charset="0" font-size="14" font-weight="normal" font-style="normal" underline="false"/>
+				</mathStyles>
+				<dimensionNames mass="mass" length="length" time="time" current="current" thermodynamic-temperature="temperature" luminous-intensity="luminosity" amount-of-substance="substance" display="false"/>
+				<symbolics derivation-steps-style="vertical-insert" show-comments="false" evaluate-in-place="false"/>
+				<results numeric-only="true">
+					<general precision="3" show-trailing-zeros="false" radix="dec" complex-threshold="10" zero-threshold="15" imaginary-value="i" exponential-threshold="3"/>
+					<matrix display-style="auto" expand-nested-arrays="false"/>
+					<unit format-units="true" simplify-units="true" fractional-unit-exponent="false"/>
+				</results>
+			</mathRendering>
+			<pageModel show-page-frame="false" show-header-frame="false" show-footer-frame="false" header-footer-start-page="1" paper-code="1" orientation="portrait" print-single-page-width="false" page-width="450" page-height="600">
+				<margins left="86.4" right="86.4" top="86.4" bottom="86.4"/>
+				<header use-full-page-width="false"/>
+				<footer use-full-page-width="false"/>
+			</pageModel>
+			<colorModel background-color="#fff" default-highlight-color="#ffff80"/>
+			<language math="ru" UI="ru"/>
+		</presentation>
+		<calculation>
+			<builtInVariables array-origin="0" convergence-tolerance="0.001" constraint-tolerance="0.001" random-seed="1" prn-precision="4" prn-col-width="8"/>
+			<calculationBehavior automatic-recalculation="true" matrix-strict-singularity-check="false" optimize-expressions="false" exact-boolean="true" strings-use-origin="false" zero-over-zero="error">
+				<compatibility multiple-assignment="MC12" local-assignment="MC11"/>
+			</calculationBehavior>
+			<units>
+				<currentUnitSystem name="si" customized="false"/>
+			</units>
+		</calculation>
+		<editor view-annotations="false" view-regions="false">
+			<ruler is-visible="false" ruler-unit="in"/>
+			<grid granularity-x="6" granularity-y="6"/>
+		</editor>
+		<fileFormat image-type="image/png" image-quality="75" save-numeric-results="true" exclude-large-results="true" save-text-images="false" screen-dpi="96"/>
+		<miscellaneous>
+			<handbook handbook-region-tag-ub="43" can-delete-original-handbook-regions="true" can-delete-user-regions="true" can-print="true" can-copy="true" can-save="true" file-permission-mask="4294967295"/>
+		</miscellaneous>
+	</settings>
+	<regions>
+		<region region-id="16" left="12" top="2.25" width="384.75" height="243" align-x="21.75" align-y="12" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
+			<text use-page-width="false" push-down="false" lock-width="true">
+				<p style="Normal" margin-left="inherit" margin-right="inherit" text-indent="inherit" text-align="center" list-style-type="inherit" tabs="inherit">
+					<b>Лабораторная работа № 2</b>
+				</p>
+				<p style="Normal" margin-left="0" margin-right="0" text-indent="inherit" text-align="center" list-style-type="inherit" tabs="inherit"/>
+				<p style="Normal" margin-left="inherit" margin-right="inherit" text-indent="inherit" text-align="inherit" list-style-type="inherit" tabs="inherit">Дана производственная функция Кобба-Дугласа: y=Ax<sub>1</sub>
+					<sup>α *</sup>
+					<inlineAttr> x</inlineAttr>
+					<sub>2</sub>
+					<sup>β</sup>
+				</p>
+				<p style="Normal" margin-left="inherit" margin-right="inherit" text-indent="inherit" text-align="inherit" list-style-type="inherit" tabs="inherit">
+					<inlineAttr>Найти:</inlineAttr>
+				</p>
+				<p style="Normal" margin-left="inherit" margin-right="inherit" text-indent="inherit" text-align="inherit" list-style-type="inherit" tabs="inherit">
+					<inlineAttr>1) степень однородности функции;</inlineAttr>
+				</p>
+				<p style="Normal" margin-left="inherit" margin-right="inherit" text-indent="inherit" text-align="inherit" list-style-type="inherit" tabs="inherit">
+					<inlineAttr>2) функцию издержек;</inlineAttr>
+				</p>
+				<p style="Normal" margin-left="0" margin-right="0" text-indent="inherit" text-align="left" list-style-type="inherit" tabs="inherit">
+					<inlineAttr>3) предельные производительности ресурсов для заданных значений x</inlineAttr>
+					<sub>1</sub>
+					<sup>0</sup>
+					<inlineAttr> и </inlineAttr>x<sub>2</sub>
+					<sup>0</sup>
+					<inlineAttr>;</inlineAttr>
+				</p>
+				<p style="Normal" margin-left="inherit" margin-right="inherit" text-indent="inherit" text-align="inherit" list-style-type="inherit" tabs="inherit">
+					<inlineAttr>4</inlineAttr>
+					<inlineAttr>) коэффициенты эластичности выпуска по ресурсам и эластичности от расширения </inlineAttr>
+				</p>
+				<p style="Normal" margin-left="0" margin-right="0" text-indent="inherit" text-align="left" list-style-type="inherit" tabs="inherit">
+					<inlineAttr>масштаба производство;</inlineAttr>
+				</p>
+				<p style="Normal" margin-left="0" margin-right="0" text-indent="inherit" text-align="left" list-style-type="inherit" tabs="inherit">
+					<inlineAttr>5) предельную норму замещения ресурсов для заданных значений </inlineAttr>x<sub>1</sub>
+					<sup>0</sup> и x<sub>2</sub>
+					<sup>0</sup>;</p>
+				<p style="Normal" margin-left="0" margin-right="0" text-indent="inherit" text-align="left" list-style-type="inherit" tabs="inherit">6) оптимальный выбор производителя по критерию максимальной прибыли в условиях совершенной конкуренции</p>
+				<p style="Normal" margin-left="0" margin-right="0" text-indent="inherit" text-align="center" list-style-type="inherit" tabs="inherit">
+					<i>p = 30 + 2 N; q</i>
+					<i>
+						<sub>1</sub>
+					</i>
+					<i>
+						<inlineAttr>= N; q</inlineAttr>
+					</i>
+					<sub>
+						<i>2</i>
+					</sub>
+					<inlineAttr>
+						<i>=5 + N;</i>
+					</inlineAttr>
+				</p>
+				<p style="Normal" margin-left="0" margin-right="0" text-indent="inherit" text-align="left" list-style-type="inherit" tabs="inherit">
+					<inlineAttr font-style="normal">7) функцию спроса на ресурсы и функцию предложения в условиях совершенной конкуренции;</inlineAttr>
+				</p>
+				<p style="Normal" margin-left="0" margin-right="0" text-indent="inherit" text-align="left" list-style-type="inherit" tabs="inherit">
+					<inlineAttr font-style="normal">8) реакции производителя при изменении цен на продукцию и на ресурсы и соответствующие коэффициенты эластичности при ценах, заданных в пункте 6.</inlineAttr>
+				</p>
+				<p style="Normal" margin-left="0" margin-right="0" text-indent="inherit" text-align="center" list-style-type="inherit" tabs="inherit">
+					<i>x</i>
+					<i>
+						<sub>1</sub>
+					</i>
+					<i>
+						<sup>0 </sup>
+					</i>
+					<i>
+						<inlineAttr>= 20 + N; x</inlineAttr>
+					</i>
+					<sub>
+						<i>2</i>
+					</sub>
+					<i>
+						<sup>0</sup>
+					</i>
+					<i>
+						<inlineAttr> = 30 + N</inlineAttr>
+					</i>
+				</p>
+			</text>
+		</region>
+		<region region-id="17" left="18" top="254.25" width="79.5" height="42" align-x="18" align-y="264" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
+			<text use-page-width="false" push-down="false" lock-width="true">
+				<p style="Normal" margin-left="inherit" margin-right="inherit" text-indent="0" text-align="inherit" list-style-type="none" tabs="inherit">
+					<b>N=8</b>
+				</p>
+				<p style="Normal" margin-left="inherit" margin-right="inherit" text-indent="0" text-align="inherit" list-style-type="none" tabs="inherit">
+					<b>Вариант 8</b>
+				</p>
+				<p style="Normal" margin-left="inherit" margin-right="inherit" text-indent="0" text-align="inherit" list-style-type="none" tabs="inherit">
+					<i>
+						<inlineAttr font-weight="normal">y =</inlineAttr>
+					</i>
+					<inlineAttr font-weight="normal" font-style="normal">
+						<sp/>
+					</inlineAttr>
+					<i>
+						<inlineAttr font-weight="normal">4 </inlineAttr>
+					</i>
+					<i>x</i>
+					<sub>
+						<i>1</i>
+					</sub>
+					<i>
+						<sup>0,3</sup>
+					</i>
+					<inlineAttr font-style="normal">
+						<sup>
+							<sp/>
+						</sup>
+					</inlineAttr>
+					<inlineAttr font-style="normal">*</inlineAttr>
+					<inlineAttr font-style="normal">
+						<sp/>
+					</inlineAttr>
+					<i>x</i>
+					<i>
+						<sub>2</sub>
+					</i>
+					<i>
+						<sup>0,4</sup>
+					</i>
+					<inlineAttr font-style="normal">
+						<sup>
+							<sp/>
+						</sup>
+					</inlineAttr>
+					<i>
+						<inlineAttr font-weight="normal">
+							<sp/>
+						</inlineAttr>
+					</i>
+				</p>
+			</text>
+		</region>
+		<region region-id="40" left="138" top="302.25" width="43.5" height="12" align-x="156" align-y="312" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
+			<text use-page-width="false" push-down="false" lock-width="true">
+				<p style="Normal" margin-left="inherit" margin-right="inherit" text-indent="inherit" text-align="center" list-style-type="inherit" tabs="inherit">Решение:</p>
+			</text>
+		</region>
+		<region region-id="43" left="18" top="320.25" width="398.25" height="96" align-x="21" align-y="330" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
+			<text use-page-width="false" push-down="false" lock-width="true">
+				<p style="Normal" margin-left="inherit" margin-right="inherit" text-indent="inherit" text-align="inherit" list-style-type="inherit" tabs="inherit">
+					<b>1. Определим степень эластичности функции.</b>
+					<inlineAttr font-weight="normal"> Сумма коэффициентов эластичности однородной функции равна показателю однородности, т.е.</inlineAttr>
+				</p>
+				<p style="Normal" margin-left="inherit" margin-right="inherit" text-indent="inherit" text-align="center" list-style-type="inherit" tabs="inherit">
+					<i>
+						<inlineAttr font-weight="normal">E</inlineAttr>
+					</i>
+					<i>
+						<inlineAttr font-weight="normal">
+							<sub>1</sub>
+						</inlineAttr>
+					</i>
+					<i>
+						<inlineAttr font-weight="normal">+E</inlineAttr>
+					</i>
+					<i>
+						<inlineAttr font-weight="normal">
+							<sub>2</sub>
+						</inlineAttr>
+					</i>
+					<i>
+						<inlineAttr font-weight="normal">+...+E</inlineAttr>
+					</i>
+					<sub>
+						<i>
+							<inlineAttr font-weight="normal">n</inlineAttr>
+						</i>
+					</sub>
+					<i>
+						<inlineAttr font-weight="normal">= k</inlineAttr>
+					</i>
+				</p>
+				<p style="Normal" margin-left="inherit" margin-right="inherit" text-indent="inherit" text-align="left" list-style-type="inherit" tabs="inherit">
+					<inlineAttr font-weight="normal" font-style="normal">В нашем случае</inlineAttr>
+				</p>
+				<p style="Normal" margin-left="inherit" margin-right="inherit" text-indent="inherit" text-align="center" list-style-type="inherit" tabs="inherit">
+					<i>
+						<inlineAttr font-weight="normal">E</inlineAttr>
+					</i>
+					<i>
+						<sub>
+							<inlineAttr font-weight="normal">1</inlineAttr>
+						</sub>
+					</i>
+					<i>
+						<inlineAttr font-weight="normal">+E</inlineAttr>
+					</i>
+					<inlineAttr font-weight="normal">
+						<sub>
+							<i>2</i>
+						</sub>
+					</inlineAttr>
+					<inlineAttr font-weight="normal">
+						<i>=k</i>
+					</inlineAttr>
+				</p>
+				<p style="Normal" margin-left="inherit" margin-right="inherit" text-indent="inherit" text-align="left" list-style-type="inherit" tabs="inherit">
+					<inlineAttr font-weight="normal" font-style="normal">Найдем коэффициенты эластичности заданной производственной функции</inlineAttr>
+				</p>
+				<p style="Normal" margin-left="inherit" margin-right="inherit" text-indent="inherit" text-align="left" list-style-type="inherit" tabs="inherit">
+					<i>y =</i>
+					<sp/>
+					<i>4 </i>
+					<i>x</i>
+					<i>
+						<sub>1</sub>
+					</i>
+					<sup>
+						<i>0,3</i>
+					</sup>
+					<sup>
+						<sp/>
+					</sup>* <i>x</i>
+					<i>
+						<sub>2</sub>
+					</i>
+					<i>
+						<sup>0,4</sup>
+					</i>
+					<i>
+						<inlineAttr>:</inlineAttr>
+					</i>
+				</p>
+			</text>
+		</region>
+	</regions>
+</worksheet>
