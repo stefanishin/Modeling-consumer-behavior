@@ -1,2 +1,2 @@
 # Spiridonova (MathCad)
-Library
+Lab_2
