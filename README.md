@@ -1,2 +1,2 @@
-# Spiridonova
+# Spiridonova (MathCad)
 Library
