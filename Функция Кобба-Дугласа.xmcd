@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?validation-md5-digest 419d7ce2b58f2f0bf5c51cd6d76db78d?>
+<?validation-md5-digest ca0c7e19fd0991476d660d2c87b06d30?>
 <worksheet version="3.0.3" xmlns="http://schemas.mathsoft.com/worksheet30" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ws="http://schemas.mathsoft.com/worksheet30" xmlns:ml="http://schemas.mathsoft.com/math30" xmlns:u="http://schemas.mathsoft.com/units10" xmlns:p="http://schemas.mathsoft.com/provenance10">
 	<pointReleaseData/>
 	<metadata>
@@ -13,9 +13,9 @@
 			<revisedBy>Никита</revisedBy>
 		</userData>
 		<identityInfo>
-			<revision>3</revision>
+			<revision>4</revision>
 			<documentID>D3A60E62-A1E5-49D1-AEE3-B2502C610547</documentID>
-			<versionID>4440CD55-A68C-4CB6-970C-919164C2CE78</versionID>
+			<versionID>B04D1752-6E3C-4C61-8672-DD1FFBC76C6E</versionID>
 			<parentVersionID>00000000-0000-0000-0000-000000000000</parentVersionID>
 			<branchID>00000000-0000-0000-0000-000000000000</branchID>
 		</identityInfo>
@@ -551,11 +551,31 @@
 			</math>
 			<rendering item-idref="11"/>
 		</region>
-		<region region-id="105" left="24" top="632.25" width="396.75" height="24" align-x="24" align-y="642" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
+		<region region-id="105" left="24" top="632.25" width="393" height="27" align-x="24" align-y="642" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<text use-page-width="false" push-down="false" lock-width="false">
 				<p style="Normal" margin-left="inherit" margin-right="inherit" text-indent="0" text-align="inherit" list-style-type="none" tabs="inherit">
 					<b>2. Найдем функцию издержек С(y).</b>
-					<inlineAttr font-weight="normal"> Это функция С(у) = min z, где z1=q1x1+q2x2, т.е. решим задачу:</inlineAttr>
+					<inlineAttr font-weight="normal"> Это функция С(у) = min z, где z</inlineAttr>
+					<inlineAttr font-weight="normal">
+						<sub>1</sub>
+					</inlineAttr>
+					<inlineAttr font-weight="normal">=q</inlineAttr>
+					<inlineAttr font-weight="normal">
+						<sub>1</sub>
+					</inlineAttr>
+					<inlineAttr font-weight="normal">x</inlineAttr>
+					<inlineAttr font-weight="normal">
+						<sub>1</sub>
+					</inlineAttr>
+					<inlineAttr font-weight="normal">+q</inlineAttr>
+					<inlineAttr font-weight="normal">
+						<sub>2</sub>
+					</inlineAttr>
+					<inlineAttr font-weight="normal">x</inlineAttr>
+					<inlineAttr font-weight="normal">
+						<sub>2</sub>
+					</inlineAttr>
+					<inlineAttr font-weight="normal">, т.е. решим задачу:</inlineAttr>
 				</p>
 			</text>
 		</region>
