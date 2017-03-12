@@ -1,3 +1,8 @@
 *.~xmcd
 *.xmcd#*
 .#*.xmcd
+
+*.~docx
+*.docx#*
+.#*.docx
+
