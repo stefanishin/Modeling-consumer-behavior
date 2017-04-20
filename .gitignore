@@ -9,3 +9,7 @@
 *.~iso
 *.iso#*
 .#*.iso
+
+*.~ipynb
+*.ipynb#*
+.#*.ipynb	
