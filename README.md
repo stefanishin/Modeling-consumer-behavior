@@ -1,4 +1,4 @@
-# Spiridonova (MathCad)
+# Modeling-consumer-behavior (MathCad)
 
 Lab_1
 
